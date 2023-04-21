@@ -1,8 +1,8 @@
 {
-  "name": "orbitor-bulma",
+  "name": "sky-lab",
   "version": "1.0.0",
-  "description": "orbitor free bulma agency template",
-  "author": "Themefisher",
+  "description": "skykab info tech",
+  "author": "skylab",
   "license": "MIT",
   "scripts": {
     "dev": "gulp",

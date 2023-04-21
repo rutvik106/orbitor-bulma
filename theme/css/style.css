@@ -325,7 +325,7 @@ a:focus {
 
 @media (max-width: 575px) {
   h2,
-.h2 {
+  .h2 {
     font-size: 1.8rem;
     line-height: 42px;
   }
@@ -631,7 +631,7 @@ ul.dropdown-menu li {
 }
 @media (max-width: 1023px) {
   #navbar.nav-text-white .navbar-link,
-#navbar.nav-text-white .navbar-brand {
+  #navbar.nav-text-white .navbar-brand {
     color: black;
   }
 }
@@ -654,7 +654,7 @@ ul.dropdown-menu li {
   position: relative;
   overflow: hidden;
   background: #fff;
-  background: url("../images/bg/main-banner1.jpg") no-repeat 80% 50%;
+  background: url("../images/bg/main-banner1.png") no-repeat 80% 50%;
   background-size: cover;
   padding: 120px 0px;
 }
@@ -938,7 +938,7 @@ ul.dropdown-menu li {
 }
 @media (max-width: 768px) {
   .case-img,
-.case-content {
+  .case-content {
     padding: 0;
   }
 }
@@ -1417,7 +1417,7 @@ ul.dropdown-menu li {
 
 @media (max-width: 575px) {
   .comment-content,
-.comment-area-box {
+  .comment-area-box {
     display: block !important;
   }
 }
